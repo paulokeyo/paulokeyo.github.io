@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paul! <br/><a href="https://github.com/paulokeyo">Cybersecurity Analyst</a>, <a href="https://github.com/paulokeyo/">Programmer</a>, <a href="https://www.medium.com/@okeyopaul">Content Creator</a></h1>
+<h1>Hi, I'm Paul! <br/><a href="https://github.com/paulokeyo">Cybersecurity Analyst</a>, <a href="https://paulokeyo.github.io">Programmer</a>, <a href="https://www.medium.com/@okeyopaul">Content Creator</a></h1>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
